@@ -1,6 +1,7 @@
 # 💻 **Java Student Management System - CSV Import & Repository Pattern**  
 ![Java](https://img.shields.io/badge/Java-Repository%20Pattern-blue)  
-![Database](https://img.shields.io/badge/Database-CSV-data-green)  
+![Database](https://img.shields.io/badge/Database-CSV-brightgreen)
+
 ## 📝 **Description**
 
 This project demonstrates an implementation of the **Repository Pattern** in Java for managing student records, integrating data from **CSV** files and performing key operations such as **student registration**, **enrollment in courses**, **sorting**, **filtering**, and **reporting**.
